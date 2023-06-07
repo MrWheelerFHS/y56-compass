@@ -10,10 +10,10 @@ basic.forever(function () {
     }
     while (input.compassHeading() < 200 && input.compassHeading() > 160) {
         basic.showLeds(`
-            . . # . .
-            . # . # .
-            . . # . .
-            # . . # .
+            . . # # .
+            . # . . .
+            . # # . .
+            . . . # .
             . # # . .
             `)
     }
