@@ -17,9 +17,9 @@
         . # . . . 
         . # # # #
         `</field></block></statement><next><block type="device_while" id="9^b[ugtCUUTqPOFv5#?1"><value name="COND"><shadow type="logic_boolean"><field name="BOOL">FALSE</field></shadow><block type="logic_operation" id="_E5!GH$g`:;hiSE_i@z2"><field name="OP">AND</field><value name="A"><block type="logic_compare" id="BV]VwN_XGV[kUjf+Go8L"><field name="OP">LT</field><value name="A"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_heading" id=":F`M=$CYZ9-XoH#%4?mW"></block></value><value name="B"><shadow type="math_number" id="}}q9N53n|*TCvWdEV2Z["><field name="NUM">290</field></shadow></value></block></value><value name="B"><block type="logic_compare" id="w5,5wH.G56%?K1D0EC6s"><field name="OP">GT</field><value name="A"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_heading" id="Z=6UJcq8,QnwOJNjAmq6"></block></value><value name="B"><shadow type="math_number" id="D|~O{lJAsbs+`-X=wr@^"><field name="NUM">250</field></shadow></value></block></value></block></value><statement name="DO"><block type="device_show_leds" id="M.q^8gYk5kg%%FwB$%i`"><field name="LEDS">`
-        . # # # # 
-        . # . . . 
-        . # # # . 
-        . # . . . 
-        . # # # #
+        # . . . # 
+        # . . . # 
+        # . # . # 
+        # # . # # 
+        # . . . #
         `</field></block></statement><next><block type="device_show_number" id="*Tw_x?iVX7l{k!2BooIA"><value name="number"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_heading" id="K*oziH(Y0:~x6/crz6lr"></block></value></block></next></block></next></block></next></block></next></block></statement></block></xml>

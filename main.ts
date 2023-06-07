@@ -28,11 +28,11 @@ basic.forever(function () {
     }
     while (input.compassHeading() < 290 && input.compassHeading() > 250) {
         basic.showLeds(`
-            . # # # #
-            . # . . .
-            . # # # .
-            . # . . .
-            . # # # #
+            # . . . #
+            # . . . #
+            # . # . #
+            # # . # #
+            # . . . #
             `)
     }
     basic.showNumber(input.compassHeading())
